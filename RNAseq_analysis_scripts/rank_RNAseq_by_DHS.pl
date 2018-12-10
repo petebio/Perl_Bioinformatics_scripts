@@ -98,7 +98,7 @@ __END__
 
 =head1 DESCRIPTION
 
-Read a table of fold-change values from RNA-Seq, and an ordered, annotated BED file of DHSs and there corresponding closest gene. 
+Read a table of fold-change values from RNA-Seq, and an ordered, annotated BED file of DHSs and their corresponding closest gene. 
 Produce a CDT file which contains the log fold-change values for the closest gene for each DHS.
 If no fold-change value is available for that gene, set the fold-change value to 0.
 
