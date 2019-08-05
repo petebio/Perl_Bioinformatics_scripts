@@ -1,2 +1,2 @@
-# Perl Bioinformatics_scripts
+# Perl_Bioinformatics_scripts
 Some old Perl scripts I wrote related to bioinformatics
